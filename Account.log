@@ -1,0 +1,862 @@
+INFO  01:37:52 Application started. Press Ctrl+C to shut down.
+INFO  01:37:52 Hosting environment: Development
+INFO  01:37:52 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  01:38:15 Checking login.
+INFO  01:38:15 Login success
+INFO  01:38:15 Getting customer details on id R-738
+INFO  01:38:15 Returning user details  Varun M
+INFO  01:39:08 Checking login.
+ERROR 01:39:08 Login falied invalid credentials
+INFO  02:07:51 Application started. Press Ctrl+C to shut down.
+INFO  02:07:51 Hosting environment: Development
+INFO  02:07:51 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  02:08:14 Checking login.
+INFO  02:08:14 Login success
+INFO  02:08:14 Getting customer details on id R-738
+INFO  02:08:14 Returning user details  Varun M
+INFO  02:08:36 Getting customer details on id R-738
+INFO  02:08:36 Returning user details  Varun M
+INFO  02:08:36 Getting all usernames.
+INFO  02:08:36 Returning usernames array.
+INFO  02:08:48 Updating user.
+INFO  02:08:49 details Updated successfully
+INFO  02:09:03 Getting customer details on id R-738
+INFO  02:09:03 Returning user details  Varun M
+INFO  02:09:03 Getting all usernames.
+INFO  02:09:03 Returning usernames array.
+INFO  02:10:30 Updating user.
+INFO  02:11:15 details Updated successfully
+INFO  02:12:04 Change password -- updating new password
+ERROR 02:12:04 Password not changed -- change password -- invalid credentials
+INFO  02:12:29 Change password -- updating new password
+INFO  02:13:39 Checking login.
+ERROR 02:13:39 Login falied invalid credentials
+INFO  02:13:44 Checking login.
+INFO  02:13:44 Login success
+INFO  02:13:44 Getting customer details on id R-738
+INFO  02:13:44 Returning user details  Varun M
+INFO  02:13:53 Getting all usernames.
+INFO  02:13:53 Returning usernames array.
+INFO  02:14:44 Forgot password -- updating new password
+ERROR 02:14:44 Password not changed -- forgot password -- invalid credentials
+INFO  02:15:02 Forgot password -- updating new password
+INFO  02:15:02 Password changed -- forogt password
+INFO  02:15:09 Getting all usernames.
+INFO  02:15:09 Returning usernames array.
+INFO  02:15:13 Getting all usernames.
+INFO  02:15:13 Returning usernames array.
+INFO  02:25:14 Getting all usernames.
+INFO  02:25:14 Returning usernames array.
+INFO  02:26:37 Getting all usernames.
+INFO  02:26:37 Returning usernames array.
+INFO  02:27:37 Getting all usernames.
+INFO  02:27:37 Returning usernames array.
+INFO  02:29:49 Registering user.
+INFO  02:29:49 Registered successfully
+INFO  02:33:48 Application started. Press Ctrl+C to shut down.
+INFO  02:33:48 Hosting environment: Development
+INFO  02:33:48 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  02:34:35 Getting all usernames.
+INFO  02:34:35 Returning usernames array.
+INFO  02:34:48 Checking login.
+INFO  02:34:48 Login success
+INFO  02:34:49 Getting customer details on id R-738
+INFO  02:34:49 Returning user details  Varun M
+INFO  02:34:54 Getting customer details on id R-738
+INFO  02:34:54 Returning user details  Varun M
+INFO  02:34:54 Getting all usernames.
+INFO  02:34:54 Returning usernames array.
+INFO  02:35:05 Updating user.
+INFO  02:35:05 details Updated successfully
+INFO  03:37:22 Application started. Press Ctrl+C to shut down.
+INFO  03:37:22 Hosting environment: Development
+INFO  03:37:22 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  03:39:29 Checking login.
+INFO  03:39:29 Login success
+INFO  03:39:29 Getting customer details on id R-738
+INFO  03:39:29 Returning user details  Varun M
+INFO  03:40:19 Getting customer details on id R-738
+INFO  03:40:19 Returning user details  Varun M
+INFO  05:33:00 Application started. Press Ctrl+C to shut down.
+INFO  05:33:00 Hosting environment: Development
+INFO  05:33:00 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  09:45:39 Application started. Press Ctrl+C to shut down.
+INFO  09:45:39 Hosting environment: Development
+INFO  09:45:39 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  09:46:30 Checking login.
+INFO  09:46:30 Login success
+INFO  09:46:31 Getting customer details on id R-738
+INFO  09:46:31 Returning user details  Varun M
+INFO  09:46:47 Getting customer details on id R-738
+INFO  09:46:47 Returning user details  Varun M
+INFO  09:46:47 Getting all usernames.
+INFO  09:46:47 Returning usernames array.
+INFO  09:46:54 Updating user.
+INFO  09:46:54 details Updated successfully
+INFO  09:46:59 Getting customer details on id R-738
+INFO  09:47:00 Returning user details  Varun M
+INFO  09:47:00 Getting all usernames.
+INFO  09:47:00 Returning usernames array.
+INFO  09:47:14 Change password -- updating new password
+ERROR 09:47:14 Password not changed -- change password -- invalid credentials
+INFO  09:47:28 Change password -- updating new password
+INFO  09:47:40 Checking login.
+INFO  09:47:40 Login success
+INFO  09:47:40 Getting customer details on id R-738
+INFO  09:47:40 Returning user details  Varun M
+INFO  09:47:46 Getting all usernames.
+INFO  09:47:46 Returning usernames array.
+INFO  09:48:06 Forgot password -- updating new password
+ERROR 09:48:06 Password not changed -- forgot password -- invalid credentials
+INFO  09:48:18 Forgot password -- updating new password
+INFO  09:48:18 Password changed -- forogt password
+INFO  09:48:31 Checking login.
+INFO  09:48:31 Login success
+INFO  09:48:31 Getting customer details on id R-738
+INFO  09:48:31 Returning user details  Varun M
+INFO  09:48:59 Checking login.
+ERROR 09:48:59 Login falied invalid credentials
+INFO  09:49:12 Checking login.
+ERROR 09:49:12 Login falied invalid credentials
+INFO  09:49:20 Checking login.
+ERROR 09:49:20 Login falied invalid credentials
+INFO  09:50:36 Checking login.
+INFO  09:50:36 Login success
+INFO  09:50:36 Getting customer details on id R-759
+INFO  09:50:36 Returning user details Dhanush M
+INFO  09:50:47 Checking login.
+INFO  09:50:47 Login success
+INFO  09:50:47 Getting customer details on id R-865
+INFO  09:50:47 Returning user details Anitha PB
+INFO  09:55:48 Application started. Press Ctrl+C to shut down.
+INFO  09:55:48 Hosting environment: Development
+INFO  09:55:48 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  09:56:17 Checking login.
+INFO  09:56:19 Login success
+INFO  09:56:19 Getting customer details on id R-738
+INFO  09:56:19 Returning user details  Varun M
+INFO  09:56:26 Getting customer details on id R-738
+INFO  09:56:26 Returning user details  Varun M
+INFO  09:56:26 Getting all usernames.
+INFO  09:56:26 Returning usernames array.
+INFO  09:56:34 Updating user.
+INFO  09:56:35 details Updated successfully
+INFO  09:56:38 Getting customer details on id R-738
+INFO  09:56:38 Returning user details  Varun M
+INFO  09:56:38 Getting all usernames.
+INFO  09:56:38 Returning usernames array.
+INFO  09:59:25 Getting customer details on id R-738
+INFO  09:59:25 Returning user details  Varun M
+INFO  09:59:25 Getting all usernames.
+INFO  09:59:25 Returning usernames array.
+INFO  09:59:27 Getting customer details on id R-738
+INFO  09:59:27 Returning user details  Varun M
+INFO  09:59:27 Getting all usernames.
+INFO  09:59:27 Returning usernames array.
+INFO  08:33:28 Application started. Press Ctrl+C to shut down.
+INFO  08:33:28 Hosting environment: Development
+INFO  08:33:28 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  08:34:45 Checking login.
+INFO  08:34:49 Login success
+INFO  08:36:47 Checking login.
+INFO  08:36:50 Checking login.
+INFO  08:36:50 Login success
+INFO  08:36:50 Getting customer details on id R-738
+INFO  08:36:50 Login success
+INFO  08:36:50 Returning user details  Varun M
+INFO  08:37:49 Checking login.
+INFO  08:37:49 Login success
+INFO  08:37:49 Getting customer details on id R-738
+INFO  08:37:49 Returning user details  Varun M
+INFO  10:21:39 Application started. Press Ctrl+C to shut down.
+INFO  10:21:39 Hosting environment: Development
+INFO  10:21:39 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  10:22:10 Getting all usernames.
+INFO  10:22:10 Returning usernames array.
+INFO  10:26:00 Registering user.
+INFO  10:26:01 Registered successfully
+INFO  10:27:09 Checking login.
+ERROR 10:27:09 Login falied invalid credentials
+INFO  10:27:13 Checking login.
+INFO  10:27:13 Login success
+INFO  10:27:13 Getting customer details on id R-407
+INFO  10:27:13 Returning user details Rakesh
+INFO  10:28:32 Getting customer details on id R-407
+INFO  10:28:32 Returning user details Rakesh
+INFO  10:28:33 Getting all usernames.
+INFO  10:28:33 Returning usernames array.
+INFO  10:29:09 Updating user.
+INFO  10:29:09 details Updated successfully
+INFO  10:29:46 Getting customer details on id R-407
+INFO  10:29:46 Returning user details Rakesh varun
+INFO  10:29:54 Getting customer details on id R-407
+INFO  10:29:54 Returning user details Rakesh varun
+INFO  10:29:54 Getting all usernames.
+INFO  10:29:54 Returning usernames array.
+INFO  10:32:58 Getting customer details on id R-407
+INFO  10:32:58 Returning user details Rakesh varun
+INFO  10:32:58 Getting all usernames.
+INFO  10:32:58 Returning usernames array.
+INFO  10:34:51 Change password -- updating new password
+INFO  10:35:04 Checking login.
+ERROR 10:35:04 Login falied invalid credentials
+INFO  10:35:12 Checking login.
+INFO  10:35:12 Login success
+INFO  10:35:12 Getting customer details on id R-407
+INFO  10:35:12 Returning user details Rakesh varun
+INFO  10:38:08 Getting all usernames.
+INFO  10:38:08 Returning usernames array.
+INFO  10:39:13 Forgot password -- updating new password
+ERROR 10:39:13 Password not changed -- forgot password -- invalid credentials
+INFO  10:39:38 Forgot password -- updating new password
+INFO  10:39:38 Password changed -- forogt password
+INFO  10:39:50 Checking login.
+INFO  10:39:50 Login success
+INFO  10:39:50 Getting customer details on id R-407
+INFO  10:39:50 Returning user details Rakesh varun
+INFO  11:04:59 Application started. Press Ctrl+C to shut down.
+INFO  11:04:59 Hosting environment: Development
+INFO  11:04:59 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  11:05:28 Checking login.
+INFO  11:05:54 Login success
+INFO  10:59:45 Application started. Press Ctrl+C to shut down.
+INFO  10:59:45 Hosting environment: Development
+INFO  10:59:45 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  11:00:14 Checking login.
+INFO  11:00:20 Login success
+INFO  11:00:20 Checking login.
+INFO  11:00:20 Login success
+INFO  11:00:20 Getting customer details on id R-738
+INFO  11:00:20 Returning user details  Varun M
+INFO  11:00:32 Checking login.
+INFO  11:00:32 Login success
+INFO  11:00:32 Getting customer details on id R-738
+INFO  11:00:32 Returning user details  Varun M
+INFO  11:00:36 Getting customer details on id R-738
+INFO  11:00:36 Returning user details  Varun M
+INFO  11:00:36 Getting all usernames.
+INFO  11:00:36 Returning usernames array.
+INFO  11:00:45 Updating user.
+INFO  11:00:46 details Updated successfully
+INFO  11:00:50 Getting customer details on id R-738
+INFO  11:00:50 Returning user details  Varun M
+INFO  11:00:50 Getting all usernames.
+INFO  11:00:50 Returning usernames array.
+INFO  12:18:51 Application started. Press Ctrl+C to shut down.
+INFO  12:18:51 Hosting environment: Development
+INFO  12:18:51 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  12:19:00 Checking login.
+INFO  12:19:04 Login success
+INFO  12:19:04 Getting customer details on id R-738
+INFO  12:19:04 Returning user details  Varun M
+INFO  12:19:14 Checking login.
+INFO  12:19:14 Login success
+INFO  12:19:14 Getting customer details on id R-738
+INFO  12:19:15 Returning user details  Varun M
+INFO  12:19:42 Getting all usernames.
+INFO  12:19:42 Returning usernames array.
+INFO  12:22:17 Getting all usernames.
+INFO  12:22:17 Returning usernames array.
+INFO  12:23:49 Getting all usernames.
+INFO  12:23:49 Returning usernames array.
+INFO  12:26:16 Getting all usernames.
+INFO  12:26:16 Returning usernames array.
+INFO  12:26:32 Registering user.
+INFO  12:26:32 Registered successfully
+INFO  12:32:09 Getting all usernames.
+INFO  12:32:09 Returning usernames array.
+INFO  12:32:25 Registering user.
+INFO  12:32:25 Registered successfully
+INFO  12:35:51 Getting all usernames.
+INFO  12:35:51 Returning usernames array.
+INFO  12:36:07 Registering user.
+INFO  12:36:07 Registered successfully
+INFO  12:46:42 Getting all usernames.
+INFO  12:46:42 Returning usernames array.
+INFO  12:49:27 Getting all usernames.
+INFO  12:49:27 Returning usernames array.
+INFO  12:49:39 Registering user.
+INFO  12:49:40 Registered successfully
+INFO  12:50:42 Getting all usernames.
+INFO  12:50:42 Returning usernames array.
+INFO  12:50:54 Registering user.
+INFO  12:50:54 Registered successfully
+INFO  01:01:02 Getting all usernames.
+INFO  01:01:02 Returning usernames array.
+INFO  01:04:51 Checking login.
+INFO  01:04:51 Login success
+INFO  01:04:51 Getting customer details on id R-738
+INFO  01:04:51 Returning user details  Varun M
+INFO  01:05:17 Checking login.
+INFO  01:05:17 Login success
+INFO  01:05:17 Getting customer details on id R-738
+INFO  01:05:17 Returning user details  Varun M
+INFO  01:06:47 Getting all usernames.
+INFO  01:06:47 Returning usernames array.
+INFO  01:06:59 Registering user.
+INFO  01:06:59 Registered successfully
+INFO  01:10:34 Getting all usernames.
+INFO  01:10:34 Returning usernames array.
+INFO  01:10:46 Registering user.
+INFO  01:10:46 Registered successfully
+INFO  01:22:44 Getting all usernames.
+INFO  01:22:44 Returning usernames array.
+INFO  01:22:56 Registering user.
+INFO  01:22:56 Registered successfully
+INFO  01:25:09 Getting all usernames.
+INFO  01:25:09 Returning usernames array.
+INFO  01:30:24 Getting all usernames.
+INFO  01:30:24 Returning usernames array.
+INFO  01:30:36 Registering user.
+INFO  01:30:36 Registered successfully
+INFO  01:34:11 Getting all usernames.
+INFO  01:34:11 Returning usernames array.
+INFO  01:34:23 Registering user.
+INFO  01:34:23 Registered successfully
+INFO  01:39:39 Getting all usernames.
+INFO  01:39:39 Returning usernames array.
+INFO  01:39:51 Registering user.
+INFO  01:39:51 Registered successfully
+INFO  01:48:29 Getting all usernames.
+INFO  01:48:29 Returning usernames array.
+INFO  01:49:37 Registering user.
+INFO  01:49:37 Registered successfully
+INFO  01:52:25 Getting all usernames.
+INFO  01:52:25 Returning usernames array.
+INFO  01:54:17 Getting all usernames.
+INFO  01:54:17 Returning usernames array.
+INFO  01:54:30 Registering user.
+INFO  01:54:30 Registered successfully
+INFO  01:54:39 Checking login.
+INFO  01:54:39 Login success
+INFO  01:54:39 Getting customer details on id R-650
+INFO  01:54:39 Returning user details test
+INFO  03:45:12 Checking login.
+INFO  03:45:12 Login success
+INFO  03:45:13 Getting customer details on id R-865
+INFO  03:45:13 Returning user details Anitha PB
+INFO  03:48:31 Getting customer details on id R-865
+INFO  03:48:31 Returning user details Anitha PB
+INFO  03:49:22 Getting customer details on id R-865
+INFO  03:49:22 Returning user details Anitha PB
+INFO  03:59:07 Getting customer details on id R-865
+INFO  03:59:07 Returning user details Anitha PB
+INFO  03:59:07 Getting all usernames.
+INFO  03:59:07 Returning usernames array.
+INFO  03:59:10 Getting customer details on id R-865
+INFO  03:59:10 Returning user details Anitha PB
+INFO  04:12:45 Checking login.
+INFO  04:12:45 Login success
+INFO  04:12:46 Getting customer details on id R-650
+INFO  04:12:46 Returning user details test
+INFO  04:14:20 Checking login.
+INFO  04:14:20 Login success
+INFO  04:14:21 Getting customer details on id R-650
+INFO  04:14:21 Returning user details test
+INFO  04:15:38 Checking login.
+INFO  04:15:38 Login success
+INFO  04:15:38 Getting customer details on id R-650
+INFO  04:15:38 Returning user details test
+INFO  04:15:59 Checking login.
+INFO  04:15:59 Login success
+INFO  04:15:59 Getting customer details on id R-865
+INFO  04:15:59 Returning user details Anitha PB
+INFO  04:17:11 Checking login.
+INFO  04:17:11 Login success
+INFO  04:17:11 Getting customer details on id R-650
+INFO  04:17:11 Returning user details test
+INFO  05:53:45 Application started. Press Ctrl+C to shut down.
+INFO  05:53:45 Hosting environment: Development
+INFO  05:53:45 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  05:55:32 Checking login.
+INFO  05:55:35 Login success
+INFO  05:57:22 Checking login.
+INFO  05:57:22 Login success
+INFO  05:57:22 Getting customer details on id R-650
+INFO  05:57:22 Returning user details test
+INFO  05:57:33 Getting all usernames.
+INFO  05:57:33 Returning usernames array.
+INFO  05:59:46 Checking login.
+INFO  05:59:46 Login success
+INFO  05:59:46 Getting customer details on id R-650
+INFO  05:59:46 Returning user details test
+INFO  06:01:24 Checking login.
+INFO  06:01:24 Login success
+INFO  06:01:24 Getting customer details on id R-865
+INFO  06:01:24 Returning user details Anitha PB
+INFO  06:03:18 Checking login.
+INFO  06:03:18 Login success
+INFO  06:03:18 Getting customer details on id R-650
+INFO  06:03:18 Returning user details test
+INFO  06:06:05 Checking login.
+INFO  06:06:05 Login success
+INFO  06:06:05 Getting customer details on id R-650
+INFO  06:06:05 Returning user details test
+INFO  06:07:22 Checking login.
+INFO  06:07:22 Login success
+INFO  06:07:22 Getting customer details on id R-865
+INFO  06:07:22 Returning user details Anitha PB
+INFO  06:11:24 Checking login.
+INFO  06:11:24 Login success
+INFO  06:11:24 Getting customer details on id R-650
+INFO  06:11:24 Returning user details test
+INFO  06:11:43 Checking login.
+INFO  06:11:43 Login success
+INFO  06:11:43 Getting customer details on id R-650
+INFO  06:11:43 Returning user details test
+INFO  06:23:52 Checking login.
+ERROR 06:23:52 Login falied invalid credentials
+INFO  06:24:01 Checking login.
+ERROR 06:24:01 Login falied invalid credentials
+INFO  06:24:09 Getting all usernames.
+INFO  06:24:09 Returning usernames array.
+INFO  06:24:21 Registering user.
+INFO  06:24:22 Registered successfully
+INFO  06:24:29 Checking login.
+INFO  06:24:29 Login success
+INFO  06:24:29 Getting customer details on id R-857
+INFO  06:24:29 Returning user details test
+INFO  06:28:26 Checking login.
+ERROR 06:28:26 Login falied invalid credentials
+INFO  06:28:34 Checking login.
+ERROR 06:28:34 Login falied invalid credentials
+INFO  06:28:42 Getting all usernames.
+INFO  06:28:42 Returning usernames array.
+INFO  06:28:55 Registering user.
+INFO  06:28:55 Registered successfully
+INFO  06:29:02 Checking login.
+INFO  06:29:02 Login success
+INFO  06:29:02 Getting customer details on id R-425
+INFO  06:29:02 Returning user details test
+INFO  06:31:03 Checking login.
+ERROR 06:31:03 Login falied invalid credentials
+INFO  06:31:11 Checking login.
+ERROR 06:31:11 Login falied invalid credentials
+INFO  06:31:17 Getting all usernames.
+INFO  06:31:17 Returning usernames array.
+INFO  06:31:30 Registering user.
+INFO  06:31:30 Registered successfully
+INFO  06:31:37 Checking login.
+INFO  06:31:37 Login success
+INFO  06:31:37 Getting customer details on id R-521
+INFO  06:31:37 Returning user details test
+INFO  06:42:13 Getting all usernames.
+INFO  06:42:13 Returning usernames array.
+INFO  06:42:26 Registering user.
+INFO  06:42:26 Registered successfully
+INFO  06:42:34 Checking login.
+INFO  06:42:34 Login success
+INFO  06:42:34 Getting customer details on id R-147
+INFO  06:42:34 Returning user details test
+INFO  06:42:44 Checking login.
+INFO  06:42:44 Login success
+INFO  06:42:44 Getting customer details on id R-147
+INFO  06:42:44 Returning user details test
+INFO  06:43:04 Checking login.
+INFO  06:43:04 Login success
+INFO  06:43:04 Getting customer details on id R-147
+INFO  06:43:04 Returning user details test
+INFO  06:57:56 Getting all usernames.
+INFO  06:57:56 Returning usernames array.
+INFO  06:58:10 Registering user.
+INFO  06:58:10 Registered successfully
+INFO  06:58:18 Checking login.
+INFO  06:58:18 Login success
+INFO  06:58:18 Getting customer details on id R-186
+INFO  06:58:18 Returning user details test
+INFO  06:58:28 Checking login.
+INFO  06:58:28 Login success
+INFO  06:58:28 Getting customer details on id R-186
+INFO  06:58:28 Returning user details test
+INFO  06:58:51 Checking login.
+INFO  06:58:52 Login success
+INFO  06:58:52 Getting customer details on id R-186
+INFO  06:58:52 Returning user details test
+INFO  08:02:20 Application started. Press Ctrl+C to shut down.
+INFO  08:02:20 Hosting environment: Development
+INFO  08:02:20 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  08:03:25 Getting all usernames.
+INFO  08:03:25 Returning usernames array.
+INFO  08:03:57 Checking login.
+ERROR 08:03:57 Login falied invalid credentials
+INFO  08:04:19 Checking login.
+ERROR 08:04:19 Login falied invalid credentials
+INFO  08:08:52 Getting all usernames.
+INFO  08:08:52 Returning usernames array.
+INFO  08:09:06 Registering user.
+INFO  08:09:06 Registered successfully
+INFO  08:09:14 Checking login.
+INFO  08:09:14 Login success
+INFO  08:09:14 Getting customer details on id R-495
+INFO  08:09:14 Returning user details test
+INFO  08:09:24 Checking login.
+INFO  08:09:24 Login success
+INFO  08:09:24 Getting customer details on id R-495
+INFO  08:09:24 Returning user details test
+INFO  08:09:42 Checking login.
+INFO  08:09:42 Login success
+INFO  08:09:42 Getting customer details on id R-495
+INFO  08:09:42 Returning user details test
+INFO  08:12:22 Getting all usernames.
+INFO  08:12:22 Returning usernames array.
+INFO  08:12:36 Registering user.
+INFO  08:12:36 Registered successfully
+INFO  08:12:44 Checking login.
+INFO  08:12:44 Login success
+INFO  08:12:44 Getting customer details on id R-628
+INFO  08:12:44 Returning user details test
+INFO  08:12:54 Checking login.
+INFO  08:12:54 Login success
+INFO  08:12:54 Getting customer details on id R-628
+INFO  08:12:54 Returning user details test
+INFO  08:13:16 Checking login.
+INFO  08:13:16 Login success
+INFO  08:13:16 Getting customer details on id R-628
+INFO  08:13:16 Returning user details test
+INFO  08:39:54 Application started. Press Ctrl+C to shut down.
+INFO  08:39:54 Hosting environment: Development
+INFO  08:39:54 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  08:40:09 Getting all usernames.
+INFO  08:40:09 Returning usernames array.
+INFO  08:41:36 Registering user.
+INFO  08:41:37 Registered successfully
+INFO  08:42:18 Getting all usernames.
+INFO  08:42:18 Returning usernames array.
+INFO  08:42:35 Forgot password -- updating new password
+ERROR 08:42:35 Password not changed -- forgot password -- invalid credentials
+INFO  08:43:02 Forgot password -- updating new password
+INFO  08:43:02 Password changed -- forogt password
+INFO  08:43:17 Checking login.
+ERROR 08:43:17 Login falied invalid credentials
+INFO  08:43:21 Checking login.
+ERROR 08:43:21 Login falied invalid credentials
+INFO  08:43:31 Checking login.
+INFO  08:43:31 Login success
+ERROR 08:43:31 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:43:47 Checking login.
+INFO  08:43:47 Login success
+ERROR 08:43:47 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:43:49 Checking login.
+INFO  08:43:49 Login success
+ERROR 08:43:49 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:43:50 Checking login.
+INFO  08:43:50 Login success
+ERROR 08:43:50 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:43:53 Checking login.
+INFO  08:43:53 Login success
+ERROR 08:43:53 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:44:05 Checking login.
+INFO  08:44:05 Login success
+ERROR 08:44:05 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:44:43 Checking login.
+INFO  08:44:57 Login success
+ERROR 08:45:12 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:46:04 Checking login.
+INFO  08:46:04 Login success
+ERROR 08:46:04 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:46:28 Application started. Press Ctrl+C to shut down.
+INFO  08:46:28 Hosting environment: Development
+INFO  08:46:28 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  08:46:45 Checking login.
+INFO  08:46:47 Login success
+ERROR 08:46:47 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:48:06 Checking login.
+INFO  08:48:06 Login success
+ERROR 08:48:06 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:49:41 Application started. Press Ctrl+C to shut down.
+INFO  08:49:41 Hosting environment: Development
+INFO  08:49:41 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  08:49:53 Checking login.
+INFO  08:49:54 Login success
+ERROR 08:49:54 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:51:05 Application started. Press Ctrl+C to shut down.
+INFO  08:51:05 Hosting environment: Development
+INFO  08:51:05 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  08:53:49 Application started. Press Ctrl+C to shut down.
+INFO  08:53:49 Hosting environment: Development
+INFO  08:53:49 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  08:54:02 Checking login.
+INFO  08:54:04 Login success
+INFO  08:54:04 Getting customer details on id undefined
+ERROR 08:54:04 User not found on id undefined
+INFO  08:55:39 Application started. Press Ctrl+C to shut down.
+INFO  08:55:39 Hosting environment: Development
+INFO  08:55:39 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  08:55:53 Checking login.
+INFO  08:55:54 Login success
+INFO  08:55:55 Getting customer details on id R-869
+INFO  08:55:55 Returning user details Varun M
+INFO  08:56:07 Checking login.
+INFO  08:56:07 Login success
+INFO  08:56:07 Getting customer details on id R-869
+INFO  08:56:07 Returning user details Varun M
+INFO  08:56:09 Getting customer details on id R-869
+INFO  08:56:09 Returning user details Varun M
+INFO  08:56:09 Getting all usernames.
+INFO  08:56:09 Returning usernames array.
+INFO  08:56:15 Updating user.
+INFO  08:56:15 details Updated successfully
+INFO  08:57:04 Getting customer details on id R-869
+INFO  08:57:04 Returning user details Varun M
+INFO  08:57:04 Getting all usernames.
+INFO  08:57:04 Returning usernames array.
+INFO  08:57:25 Change password -- updating new password
+INFO  08:57:41 Checking login.
+INFO  08:57:41 Login success
+INFO  08:57:41 Getting customer details on id R-869
+INFO  08:57:41 Returning user details Varun M
+INFO  09:02:22 Application started. Press Ctrl+C to shut down.
+INFO  09:02:22 Hosting environment: Development
+INFO  09:02:22 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  09:06:52 Checking login.
+ERROR 09:06:53 Login falied invalid credentials
+INFO  09:07:11 Checking login.
+ERROR 09:07:11 Login falied invalid credentials
+INFO  09:07:18 Checking login.
+INFO  09:07:18 Login success
+INFO  09:07:18 Getting customer details on id R-869
+INFO  09:07:18 Returning user details Varun M
+INFO  07:10:04 Application started. Press Ctrl+C to shut down.
+INFO  07:10:04 Hosting environment: Development
+INFO  07:10:04 Content root path: E:\cts training\zeeb\BMS-Microservices\AuthorizationMS
+INFO  07:10:51 Getting all usernames.
+INFO  07:10:51 Returning usernames array.
+INFO  07:11:05 Registering user.
+INFO  07:11:05 Registered successfully
+INFO  07:11:12 Checking login.
+INFO  07:11:13 Login success
+INFO  07:11:13 Getting customer details on id R-355
+INFO  07:11:13 Returning user details test
+INFO  07:11:23 Checking login.
+INFO  07:11:23 Login success
+INFO  07:11:23 Getting customer details on id R-355
+INFO  07:11:23 Returning user details test
+INFO  07:11:42 Checking login.
+INFO  07:11:42 Login success
+INFO  07:11:42 Getting customer details on id R-355
+INFO  07:11:42 Returning user details test
+INFO  07:19:19 Getting all usernames.
+INFO  07:19:19 Returning usernames array.
+INFO  07:19:32 Registering user.
+INFO  07:19:32 Registered successfully
+INFO  07:19:40 Checking login.
+INFO  07:19:40 Login success
+INFO  07:19:40 Getting customer details on id R-147
+INFO  07:19:40 Returning user details test
+INFO  07:19:50 Checking login.
+INFO  07:19:50 Login success
+INFO  07:19:50 Getting customer details on id R-147
+INFO  07:19:50 Returning user details test
+INFO  07:20:11 Checking login.
+INFO  07:20:11 Login success
+INFO  07:20:11 Getting customer details on id R-147
+INFO  07:20:11 Returning user details test
