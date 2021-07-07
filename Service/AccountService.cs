@@ -28,9 +28,9 @@ namespace AuthorizationMS.Service
             return await _repository.GetUserById(customerId);
         }
 
-        public async Task<List<Account>> GetAccounts()
+        public List<Account> GetAccounts()
         {
-            return await _repository.GetAccounts();
+            return _repository.GetAccounts();
         }
 
         public async Task<List<string>> GetUsernames()

@@ -21,7 +21,8 @@ namespace AuthorizationMS.Controllers
             _service = service;
         }
 
-        [HttpGet("accounts")]
+        //method to return all accounts
+        [HttpGet]
         public ActionResult GetAllAccounts()
         {
             return Ok(_service.GetAccounts());

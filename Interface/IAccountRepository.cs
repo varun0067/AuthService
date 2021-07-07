@@ -13,6 +13,6 @@ namespace AuthorizationMS.Interface
         public Task RegisterUser(Account account);
         public Task<bool> UpdateUser(UpdateDTO account,string customerId);
         public Task<bool> UpdatePassword(string username, string password);
-        public Task<List<Account>> GetAccounts();
+        public List<Account> GetAccounts();
     }
 }

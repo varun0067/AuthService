@@ -89,9 +89,9 @@ namespace AuthorizationMS.Repository
             return await _context.Accounts.FirstOrDefaultAsync(account => account.CustomerId == customerId);
         }
 
-        public async Task<List<Account>> GetAccounts()
+        public List<Account> GetAccounts()
         {
-            return await _context.Accounts.ToListAsync();
+            return  _context.Accounts.ToList<Account>();
         }
 
         public async Task<List<string>> GetUsernames()
